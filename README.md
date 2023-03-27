@@ -1,1 +1,1 @@
-# Frappo Wallet
+# Frappo
