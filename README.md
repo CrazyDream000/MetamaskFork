@@ -1,2 +1,3 @@
 # Frappo Wallet
 
+MetaMask extension
