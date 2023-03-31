@@ -1,3 +1,3 @@
-# Frappo Wallet
+# Frappo Wallet 
 
-MetaMask extension in Olaff
+MetaMask extension in hetape
