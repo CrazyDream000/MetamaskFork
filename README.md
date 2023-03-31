@@ -1,3 +1,3 @@
 # Frappo Wallet
 
-MetaMask extension
+MetaMask extension in PALSEV
