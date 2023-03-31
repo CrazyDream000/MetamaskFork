@@ -1,3 +1,3 @@
 # Frappo Wallet 
 
-MetaMask extension in Cupid
+MetaMask extension forked by jewelas
