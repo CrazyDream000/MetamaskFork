@@ -1,3 +1,3 @@
 # Frappo Wallet 
 
-MetaMask extension  in Tema
+MetaMask extension in Cupid
