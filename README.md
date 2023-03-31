@@ -1,3 +1,3 @@
 # Frappo Wallet 
 
-MetaMask extension in hetape
+MetaMask extension  in Tema
